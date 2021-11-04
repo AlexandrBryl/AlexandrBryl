@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexandrBryl
 - 🌱 I’m currently learning java
-- 📫 I’m froe Moscow
+- 📫 I’m from Moscow
 
 <!---
 AlexandrBryl/AlexandrBryl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
